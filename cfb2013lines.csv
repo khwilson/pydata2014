@@ -1,0 +1,814 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+08/29/2013,North Carolina,10,South Carolina,27,13.0
+08/29/2013,Nevada-Las Vegas,23,Minnesota,51,13.5
+08/29/2013,Tulsa,7,Bowling Green,34,3.0
+08/29/2013,Akron,7,U-C-F,38,24.0
+08/29/2013,Utah State,26,Utah,30,1.0
+08/29/2013,Mississippi,39,Vanderbilt,35,-3.5
+08/29/2013,Rutgers,51,Fresno State,52,10.5
+08/29/2013,Southern Cal,30,Hawaii,13,-24.5
+08/29/2013,Sacramento State,0,San Jose State,24, 
+08/29/2013,Liberty,10,Kent State,17, 
+08/29/2013,Presbyterian,7,Wake Forest,31, 
+08/29/2013,Illinois State,28,Ball State,51, 
+08/29/2013,Indiana State,35,Indiana,73, 
+08/29/2013,Southern Utah,22,South Alabama,21, 
+08/29/2013,Towson,33,Connecticut,18, 
+08/29/2013,Western Carolina,24,Middle Tennessee,45, 
+08/29/2013,Jackson State,7,Tulane,34, 
+08/30/2013,Western Michigan,13,Michigan State,26,27.5
+08/30/2013,Florida Atlantic,6,Miami-Florida,34,31.5
+08/30/2013,Texas Tech,41,S-M-U,23,-4.5
+08/30/2013,Morgan State,12,Army,28, 
+08/30/2013,Samford,31,Georgia State,21, 
+08/30/2013,North Dakota St,24,Kansas State,21, 
+08/30/2013,Southern Univ,13,Houston,62, 
+08/30/2013,Northern Arizona,0,Arizona,35, 
+08/31/2013,Massachusetts,0,Wisconsin,45,43.0
+08/31/2013,Central Michigan,9,Michigan,59,31.0
+08/31/2013,Buffalo,20,Ohio State,40,35.0
+08/31/2013,Louisiana Tech,14,No Carolina State,40,14.5
+08/31/2013,Florida Intl,10,Maryland,43,21.0
+08/31/2013,Northern Illinois,30,Iowa,27,3.0
+08/31/2013,Temple,6,Notre Dame,28,28.0
+08/31/2013,Brigham Young,16,Virginia,19,-3.0
+08/31/2013,Alabama,35,Virginia Tech,10,-22.5
+08/31/2013,U-A-B,31,Troy,34,3.5
+08/31/2013,Purdue,7,Cincinnati,42,11.0
+08/31/2013,Kentucky,26,Western Kentucky,35,-4.5
+08/31/2013,Miami-Ohio,14,Marshall,52,21.0
+08/31/2013,Mississippi State,3,Oklahoma State,21,13.0
+08/31/2013,UL-Monroe,0,Oklahoma,34,21.5
+08/31/2013,Texas State,22,Southern Miss,15,9.0
+08/31/2013,New Mexico State,7,Texas,56,43.5
+08/31/2013,Rice,31,Texas A+M,52,30.0
+08/31/2013,Toledo,6,Florida,24,22.0
+08/31/2013,UL-Lafayette,14,Arkansas,34,10.0
+08/31/2013,Washington State,24,Auburn,31,14.0
+08/31/2013,Idaho,6,North Texas,40,17.0
+08/31/2013,Penn State,23,Syracuse,17,-9.0
+08/31/2013,Wyoming,34,Nebraska,37,31.0
+08/31/2013,Texas-San Antonio,21,New Mexico,13,4.0
+08/31/2013,Georgia,35,Clemson,38,-3.0
+08/31/2013,Louisiana State,37,Texas Christian,27,-6.0
+08/31/2013,Boise State,6,Washington,38,4.5
+08/31/2013,Nevada-Reno,20,U.C.L.A.,58,21.0
+08/31/2013,Northwestern,44,California,30,-6.0
+08/31/2013,Arkansas-Pine Bluff,11,Arkansas State,62, 
+08/31/2013,Colgate,13,Air Force,38, 
+08/31/2013,Elon,0,Georgia Tech,70, 
+08/31/2013,Murray State,14,Missouri,58, 
+08/31/2013,Austin Peay,0,Tennessee,45, 
+08/31/2013,Southern Illinois,34,Illinois,42, 
+08/31/2013,Villanova,14,Boston College,24, 
+08/31/2013,William + Mary,17,West Virginia,24, 
+08/31/2013,No Carolina Central,0,Duke,45, 
+08/31/2013,Nicholls State,3,Oregon,66, 
+08/31/2013,Eastern Washington,49,Oregon State,46, 
+08/31/2013,Howard,24,Eastern Michigan,34, 
+08/31/2013,McNeese State,53,South Florida,21, 
+08/31/2013,Old Dominion,38,East Carolina,52, 
+08/31/2013,Wofford,3,Baylor,69, 
+08/31/2013,Eastern Illinois,40,San Diego State,19, 
+08/31/2013,Northern Iowa,28,Iowa State,20, 
+09/01/2013,Ohio,7,Louisville,49,21.0
+09/01/2013,Colorado,41,Colorado State,27,3.0
+09/02/2013,Florida State,41,Pittsburgh,13,-12.5
+09/05/2013,Florida Atlantic,13,East Carolina,31,21.0
+09/05/2013,Sacramento State,0,Arizona State,55, 
+09/06/2013,Wake Forest,10,Boston College,24,3.0
+09/06/2013,U-C-F,38,Florida Intl,0,-26.0
+09/07/2013,Florida,16,Miami-Florida,21,-3.5
+09/07/2013,Miami-Ohio,7,Kentucky,41,18.0
+09/07/2013,South Florida,6,Michigan State,21,23.0
+09/07/2013,Oklahoma State,56,Texas-San Antonio,35,-30.0
+09/07/2013,Houston,22,Temple,13,-3.5
+09/07/2013,North Texas,21,Ohio,27,4.0
+09/07/2013,Middle Tennessee,20,North Carolina,40,20.0
+09/07/2013,Cincinnati,17,Illinois,45,-9.5
+09/07/2013,West Virginia,7,Oklahoma,16,22.0
+09/07/2013,South Carolina,30,Georgia,41,3.5
+09/07/2013,San Diego State,7,Ohio State,42,29.5
+09/07/2013,Utah State,52,Air Force,20,-9.5
+09/07/2013,South Alabama,41,Tulane,39,6.5
+09/07/2013,Oregon,59,Virginia,10,-27.5
+09/07/2013,Duke,28,Memphis,14,-4.0
+09/07/2013,Syracuse,27,Northwestern,48,17.0
+09/07/2013,Navy,41,Indiana,35,12.0
+09/07/2013,Southern Miss,13,Nebraska,56,28.5
+09/07/2013,Texas,21,Brigham Young,40,-8.5
+09/07/2013,U-A-B,17,Louisiana State,56,35.0
+09/07/2013,Toledo,23,Missouri,38,14.5
+09/07/2013,Colorado State,27,Tulsa,30,13.5
+09/07/2013,Arkansas State,9,Auburn,38,10.5
+09/07/2013,Army,14,Ball State,40,10.5
+09/07/2013,Eastern Michigan,7,Penn State,45,28.5
+09/07/2013,Buffalo,13,Baylor,70,30.0
+09/07/2013,Bowling Green,41,Kent State,22,-7.5
+09/07/2013,Western Kentucky,20,Tennessee,52,14.0
+09/07/2013,UL-Lafayette,27,Kansas State,48,13.0
+09/07/2013,Notre Dame,30,Michigan,41,6.0
+09/07/2013,Hawaii,14,Oregon State,33,27.0
+09/07/2013,Minnesota,44,New Mexico State,21,-16.5
+09/07/2013,Idaho,10,Wyoming,42,29.5
+09/07/2013,New Mexico,42,UTEP,35,7.5
+09/07/2013,Washington State,10,Southern Cal,7,16.0
+09/07/2013,Arizona,58,Nevada-Las Vegas,13,-13.0
+09/07/2013,San Jose State,13,Stanford,34,24.5
+09/07/2013,Eastern Kentucky,7,Louisville,44, 
+09/07/2013,Indiana State,14,Purdue,20, 
+09/07/2013,Norfolk State,0,Rutgers,38, 
+09/07/2013,Samford,21,Arkansas,31, 
+09/07/2013,S E Louisiana,17,Texas Christian,38, 
+09/07/2013,Sam Houston State,28,Texas A+M,65, 
+09/07/2013,Missouri State,14,Iowa,28, 
+09/07/2013,Tennessee Tech,0,Wisconsin,48, 
+09/07/2013,So Carolina State,13,Clemson,52, 
+09/07/2013,Western Carolina,3,Virginia Tech,45, 
+09/07/2013,Chattanooga,42,Georgia State,14, 
+09/07/2013,Maine,24,Massachusetts,14, 
+09/07/2013,Weber State,7,Utah,70, 
+09/07/2013,New Hampshire,21,Central Michigan,24, 
+09/07/2013,Tennessee-Martin,14,Boise State,63, 
+09/07/2013,Alcorn State,7,Mississippi State,51, 
+09/07/2013,Old Dominion,10,Maryland,47, 
+09/07/2013,Portland State,30,California,37, 
+09/07/2013,James Madison,33,Akron,35, 
+09/07/2013,Richmond,21,No Carolina State,23, 
+09/07/2013,Gardner-Webb,0,Marshall,55, 
+09/07/2013,Stephen F Austin,13,Texas Tech,61, 
+09/07/2013,Grambling,10,UL-Monroe,48, 
+09/07/2013,Lamar,14,Louisiana Tech,27, 
+09/07/2013,Nicholls State,27,Western Michigan,23, 
+09/07/2013,Prairie View,3,Texas State,28, 
+09/07/2013,Savannah State,3,Troy,66, 
+09/07/2013,South Dakota,14,Kansas,31, 
+09/07/2013,Central Arkansas,24,Colorado,38, 
+09/07/2013,Montana State,30,S-M-U,31, 
+09/07/2013,Austin Peay,3,Vanderbilt,38, 
+09/07/2013,S E Missouri St,13,Mississippi,31, 
+09/07/2013,UC-Davis,7,Nevada-Reno,36, 
+09/07/2013,Cal-San Luis Obispo,25,Fresno State,41, 
+09/12/2013,Texas Christian,10,Texas Tech,20,-3.0
+09/12/2013,Tulane,24,Louisiana Tech,15,7.0
+09/12/2013,Troy,34,Arkansas State,41,6.5
+09/13/2013,Air Force,20,Boise State,42,24.0
+09/14/2013,Eastern Michigan,10,Rutgers,28,28.0
+09/14/2013,Stanford,34,Army,20,-31.0
+09/14/2013,Georgia State,7,West Virginia,41,40.5
+09/14/2013,Louisville,27,Kentucky,13,-14.5
+09/14/2013,Marshall,31,Ohio,34,-8.0
+09/14/2013,Akron,24,Michigan,28,36.5
+09/14/2013,Bowling Green,10,Indiana,42,2.5
+09/14/2013,Virginia Tech,15,East Carolina,10,-8.0
+09/14/2013,Maryland,32,Connecticut,21,-6.0
+09/14/2013,New Mexico,27,Pittsburgh,49,22.0
+09/14/2013,UL-Monroe,21,Wake Forest,19,1.5
+09/14/2013,Western Kentucky,24,South Alabama,31,-7.0
+09/14/2013,Nevada-Reno,7,Florida State,62,35.5
+09/14/2013,U.C.L.A.,41,Nebraska,21,0.0
+09/14/2013,Georgia Tech,38,Duke,14,-4.5
+09/14/2013,Tennessee,14,Oregon,59,28.5
+09/14/2013,Mississippi,44,Texas,23,2.0
+09/14/2013,Boston College,7,Southern Cal,35,14.0
+09/14/2013,Iowa,27,Iowa State,21,-2.0
+09/14/2013,Alabama,49,Texas A+M,42,-9.0
+09/14/2013,Northern Illinois,45,Idaho,35,-30.5
+09/14/2013,Mississippi State,20,Auburn,24,6.5
+09/14/2013,Washington,34,Illinois,24,-10.5
+09/14/2013,U-C-F,34,Penn State,31,5.0
+09/14/2013,Ball State,27,North Texas,34,-3.5
+09/14/2013,Memphis,15,Middle Tennessee,17,9.5
+09/14/2013,Southern Miss,3,Arkansas,24,24.5
+09/14/2013,Vanderbilt,25,South Carolina,35,13.5
+09/14/2013,Tulsa,20,Oklahoma,51,23.5
+09/14/2013,Ohio State,52,California,34,-15.5
+09/14/2013,Massachusetts,7,Kansas State,37,38.0
+09/14/2013,Florida Atlantic,28,South Florida,10,12.5
+09/14/2013,Kansas,14,Rice,23,7.0
+09/14/2013,Kent State,13,Louisiana State,45,36.5
+09/14/2013,Notre Dame,31,Purdue,24,-19.0
+09/14/2013,UTEP,42,New Mexico State,21,-3.5
+09/14/2013,Western Michigan,17,Northwestern,38,28.5
+09/14/2013,Texas-San Antonio,13,Arizona,38,25.0
+09/14/2013,Oregon State,51,Utah,48,3.5
+09/14/2013,Central Michigan,21,Nevada-Las Vegas,31,8.0
+09/14/2013,Wisconsin,30,Arizona State,32,4.0
+09/14/2013,Western Illinois,12,Minnesota,29, 
+09/14/2013,Fordham,30,Temple,29, 
+09/14/2013,Youngstown State,17,Michigan State,55, 
+09/14/2013,Delaware,7,Navy,51, 
+09/14/2013,Stony Brook,23,Buffalo,26, 
+09/14/2013,Wagner,0,Syracuse,54, 
+09/14/2013,Bethune-Cookman,34,Florida Intl,13, 
+09/14/2013,Cal-San Luis Obispo,17,Colorado State,34, 
+09/14/2013,Eastern Washington,21,Toledo,33, 
+09/14/2013,Nicholls State,7,UL-Lafayette,70, 
+09/14/2013,Northwestern St(LA),9,Cincinnati,66, 
+09/14/2013,Lamar,3,Oklahoma State,59, 
+09/14/2013,Northern Colorado,7,Wyoming,35, 
+09/14/2013,Weber State,6,Utah State,70, 
+09/14/2013,Southern Utah,10,Washington State,48, 
+09/19/2013,Clemson,26,No Carolina State,14,-14.0
+09/20/2013,Boise State,40,Fresno State,41,4.0
+09/21/2013,North Texas,21,Georgia,45,34.5
+09/21/2013,Florida Intl,0,Louisville,72,41.5
+09/21/2013,Western Michigan,3,Iowa,59,16.0
+09/21/2013,Vanderbilt,24,Massachusetts,7,-29.5
+09/21/2013,Tennessee,17,Florida,31,15.5
+09/21/2013,Wake Forest,25,Army,11,-2.5
+09/21/2013,Pittsburgh,58,Duke,55,-4.5
+09/21/2013,Michigan,24,Connecticut,21,-19.5
+09/21/2013,Purdue,10,Wisconsin,41,22.5
+09/21/2013,Ball State,51,Eastern Michigan,20,-10.5
+09/21/2013,Kent State,0,Penn State,34,23.0
+09/21/2013,Marshall,21,Virginia Tech,29,8.5
+09/21/2013,Cincinnati,14,Miami-Ohio,0,-24.5
+09/21/2013,North Carolina,20,Georgia Tech,28,7.0
+09/21/2013,West Virginia,0,Maryland,37,4.5
+09/21/2013,San Jose State,24,Minnesota,43,3.5
+09/21/2013,Troy,7,Mississippi State,62,13.5
+09/21/2013,UL-Monroe,7,Baylor,70,31.0
+09/21/2013,Wyoming,56,Air Force,23,-5.0
+09/21/2013,Utah,20,Brigham Young,13,7.0
+09/21/2013,Hawaii,9,Nevada-Reno,31,7.5
+09/21/2013,Utah State,14,Southern Cal,17,7.0
+09/21/2013,S-M-U,13,Texas A+M,42,28.5
+09/21/2013,Rice,26,Houston,31,3.0
+09/21/2013,Michigan State,13,Notre Dame,17,4.5
+09/21/2013,Kansas State,21,Texas,31,5.5
+09/21/2013,Arkansas State,7,Memphis,31,-4.5
+09/21/2013,Louisiana Tech,10,Kansas,13,10.5
+09/21/2013,Colorado State,6,Alabama,31,39.0
+09/21/2013,Arkansas,24,Rutgers,28,0.0
+09/21/2013,Arizona State,28,Stanford,42,7.0
+09/21/2013,UL-Lafayette,35,Akron,30,-7.0
+09/21/2013,Idaho,0,Washington State,42,30.5
+09/21/2013,Middle Tennessee,42,Florida Atlantic,35,-3.0
+09/21/2013,Tulane,17,Syracuse,52,17.0
+09/21/2013,Toledo,38,Central Michigan,17,-14.0
+09/21/2013,Texas State,7,Texas Tech,33,27.5
+09/21/2013,Oregon State,34,San Diego State,30,-7.0
+09/21/2013,Auburn,21,Louisiana State,35,17.0
+09/21/2013,Texas-San Antonio,32,UTEP,13,-3.0
+09/21/2013,Missouri,45,Indiana,28,-2.5
+09/21/2013,New Mexico State,13,U.C.L.A.,59,44.5
+09/21/2013,Savannah State,7,Miami-Florida,77, 
+09/21/2013,South Dakota State,20,Nebraska,59, 
+09/21/2013,Jacksonville St,32,Georgia State,26, 
+09/21/2013,Austin Peay,0,Ohio,38, 
+09/21/2013,Northwestern St(LA),28,U-A-B,52, 
+09/21/2013,Bethune-Cookman,6,Florida State,54, 
+09/21/2013,Murray State,7,Bowling Green,48, 
+09/21/2013,Virginia Military,0,Virginia,49, 
+09/21/2013,Idaho State,0,Washington,56, 
+09/21/2013,Eastern Illinois,39,Northern Illinois,43, 
+09/21/2013,Florida A+M,0,Ohio State,76, 
+09/21/2013,Morgan State,17,Western Kentucky,58, 
+09/21/2013,Maine,21,Northwestern,35, 
+09/21/2013,Western Illinois,7,Nevada-Las Vegas,38, 
+09/26/2013,Virginia Tech,17,Georgia Tech,10,7.5
+09/26/2013,Iowa State,38,Tulsa,21,3.0
+09/27/2013,Middle Tennessee,10,Brigham Young,37,23.0
+09/27/2013,Utah State,40,San Jose State,12,-10.5
+09/28/2013,Virginia,3,Pittsburgh,14,6.0
+09/28/2013,Northern Illinois,55,Purdue,24,-4.0
+09/28/2013,Troy,31,Duke,38,13.5
+09/28/2013,Connecticut,12,Buffalo,41,-1.5
+09/28/2013,Toledo,24,Ball State,31,1.5
+09/28/2013,Central Michigan,14,No Carolina State,48,24.0
+09/28/2013,Kent State,32,Western Michigan,14,-2.0
+09/28/2013,East Carolina,55,North Carolina,31,12.5
+09/28/2013,Florida State,48,Boston College,34,-24.5
+09/28/2013,U-A-B,24,Vanderbilt,52,20.0
+09/28/2013,Miami-Ohio,14,Illinois,50,28.5
+09/28/2013,S-M-U,17,Texas Christian,48,17.0
+09/28/2013,Arkansas State,19,Missouri,41,22.5
+09/28/2013,Iowa,23,Minnesota,7,-2.5
+09/28/2013,UTEP,42,Colorado State,59,13.5
+09/28/2013,Louisiana State,41,Georgia,44,3.0
+09/28/2013,Arizona,13,Washington,31,9.5
+09/28/2013,Mississippi,0,Alabama,25,14.5
+09/28/2013,California,16,Oregon,55,38.5
+09/28/2013,Southern Cal,41,Arizona State,62,4.5
+09/28/2013,Army,35,Louisiana Tech,16,3.5
+09/28/2013,Texas A+M,45,Arkansas,33,-14.5
+09/28/2013,Oklahoma,35,Notre Dame,21,-4.5
+09/28/2013,Southern Miss,7,Boise State,60,29.0
+09/28/2013,Miami-Florida,49,South Florida,21,-18.5
+09/28/2013,Wake Forest,7,Clemson,56,29.5
+09/28/2013,Temple,24,Idaho,26,-7.5
+09/28/2013,Tulane,31,UL-Monroe,14,12.5
+09/28/2013,Houston,59,Texas-San Antonio,28,2.0
+09/28/2013,Akron,14,Bowling Green,31,15.0
+09/28/2013,Colorado,17,Oregon State,44,12.0
+09/28/2013,South Carolina,28,U-C-F,25,-7.0
+09/28/2013,Florida,24,Kentucky,7,-12.0
+09/28/2013,Stanford,55,Washington State,17,-9.5
+09/28/2013,Wyoming,21,Texas State,42,-11.0
+09/28/2013,Navy,7,Western Kentucky,19,-4.0
+09/28/2013,Florida Atlantic,14,Rice,18,14.5
+09/28/2013,South Alabama,24,Tennessee,31,17.0
+09/28/2013,Air Force,42,Nevada-Reno,45,12.5
+09/28/2013,Oklahoma State,21,West Virginia,30,-20.0
+09/28/2013,Wisconsin,24,Ohio State,31,7.5
+09/28/2013,Nevada-Las Vegas,56,New Mexico,42,1.5
+09/28/2013,San Diego State,26,New Mexico State,16,-16.5
+09/28/2013,Fresno State,42,Hawaii,37,-17.5
+10/03/2013,Texas,31,Iowa State,30,-7.5
+10/03/2013,Western Kentucky,31,UL-Monroe,10,-8.0
+10/03/2013,U.C.L.A.,34,Utah,27,-6.5
+10/04/2013,Brigham Young,31,Utah State,14,6.5
+10/04/2013,Nevada-Reno,44,San Diego State,51,6.0
+10/05/2013,Air Force,10,Navy,28,13.5
+10/05/2013,Michigan State,26,Iowa,14,2.0
+10/05/2013,Louisville,30,Temple,7,-34.0
+10/05/2013,Western Michigan,20,Toledo,47,23.5
+10/05/2013,Eastern Michigan,14,Buffalo,42,13.5
+10/05/2013,Georgia State,3,Alabama,45,53.5
+10/05/2013,Army,27,Boston College,48,12.0
+10/05/2013,Central Michigan,21,Miami-Ohio,9,-3.0
+10/05/2013,Ball State,48,Virginia,27,3.0
+10/05/2013,Maryland,0,Florida State,63,17.0
+10/05/2013,Georgia Tech,30,Miami-Florida,45,7.0
+10/05/2013,Clemson,49,Syracuse,14,-14.5
+10/05/2013,No Carolina State,13,Wake Forest,28,-8.0
+10/05/2013,Illinois,19,Nebraska,39,8.0
+10/05/2013,Texas-San Antonio,10,Marshall,34,15.0
+10/05/2013,North Texas,21,Tulane,24,-3.0
+10/05/2013,Oregon,57,Colorado,16,-40.5
+10/05/2013,Georgia,34,Tennessee,31,-14.0
+10/05/2013,Arkansas,10,Florida,30,13.0
+10/05/2013,Louisiana State,59,Mississippi State,26,-9.0
+10/05/2013,Rice,30,Tulsa,27,3.0
+10/05/2013,North Carolina,17,Virginia Tech,27,9.0
+10/05/2013,Texas Christian,17,Oklahoma,20,9.5
+10/05/2013,Cincinnati,20,South Florida,26,-12.0
+10/05/2013,Kansas State,29,Oklahoma State,33,14.0
+10/05/2013,Missouri,51,Vanderbilt,28,-2.0
+10/05/2013,Minnesota,13,Michigan,42,19.0
+10/05/2013,U-C-F,24,Memphis,17,-10.0
+10/05/2013,Rutgers,55,S-M-U,52,-4.5
+10/05/2013,Fresno State,61,Idaho,14,-28.0
+10/05/2013,Texas State,24,UL-Lafayette,48,11.0
+10/05/2013,South Alabama,33,Troy,34,3.5
+10/05/2013,New Mexico State,17,New Mexico,66,11.0
+10/05/2013,Washington State,44,California,22,-2.0
+10/05/2013,Washington,28,Stanford,31,9.5
+10/05/2013,Northern Illinois,38,Kent State,24,-9.0
+10/05/2013,Mississippi,22,Auburn,30,-3.0
+10/05/2013,Kentucky,28,South Carolina,35,21.5
+10/05/2013,Florida Intl,24,Southern Miss,23,16.5
+10/05/2013,Massachusetts,7,Bowling Green,28,27.0
+10/05/2013,Florida Atlantic,37,U-A-B,23,4.0
+10/05/2013,Texas Tech,54,Kansas,16,-17.0
+10/05/2013,East Carolina,24,Middle Tennessee,17,-7.5
+10/05/2013,Ohio,43,Akron,3,-3.0
+10/05/2013,Arizona State,34,Notre Dame,37,-6.5
+10/05/2013,West Virginia,42,Baylor,73,29.0
+10/05/2013,Louisiana Tech,38,UTEP,35,-2.5
+10/05/2013,Ohio State,40,Northwestern,30,-7.0
+10/05/2013,Penn State,24,Indiana,44,-4.0
+10/05/2013,San Jose State,37,Hawaii,27,-4.0
+10/10/2013,Rutgers,10,Louisville,24,19.0
+10/10/2013,San Diego State,27,Air Force,20,-4.0
+10/10/2013,Arizona,31,Southern Cal,38,6.0
+10/11/2013,Temple,20,Cincinnati,38,20.0
+10/12/2013,Oklahoma,20,Texas,36,-13.5
+10/12/2013,Indiana,28,Michigan State,42,10.0
+10/12/2013,Pittsburgh,9,Virginia Tech,19,7.0
+10/12/2013,Miami-Ohio,10,Massachusetts,17,6.5
+10/12/2013,Boston College,14,Clemson,24,23.5
+10/12/2013,Buffalo,33,Western Michigan,0,-9.5
+10/12/2013,Central Michigan,26,Ohio,23,20.0
+10/12/2013,Eastern Michigan,25,Army,50,10.0
+10/12/2013,Virginia,26,Maryland,27,5.0
+10/12/2013,South Florida,13,Connecticut,10,4.0
+10/12/2013,Navy,7,Duke,35,4.5
+10/12/2013,Troy,35,Georgia State,28,-15.0
+10/12/2013,Texas A+M,41,Mississippi,38,-7.0
+10/12/2013,Kent State,24,Ball State,27,13.5
+10/12/2013,Bowling Green,20,Mississippi State,21,11.5
+10/12/2013,Akron,20,Northern Illinois,27,24.0
+10/12/2013,Iowa State,35,Texas Tech,42,14.0
+10/12/2013,Rice,27,Texas-San Antonio,21,-1.0
+10/12/2013,New Mexico,31,Wyoming,38,13.0
+10/12/2013,Stanford,21,Utah,27,-7.0
+10/12/2013,Georgia Tech,20,Brigham Young,38,7.0
+10/12/2013,Nebraska,44,Purdue,7,-13.0
+10/12/2013,Missouri,41,Georgia,26,7.0
+10/12/2013,Baylor,35,Kansas State,25,-16.5
+10/12/2013,Florida,6,Louisiana State,17,7.0
+10/12/2013,Colorado,13,Arizona State,54,28.0
+10/12/2013,Oregon,45,Washington,24,-12.0
+10/12/2013,California,10,U.C.L.A.,37,25.5
+10/12/2013,Northwestern,6,Wisconsin,35,11.0
+10/12/2013,East Carolina,33,Tulane,36,-13.5
+10/12/2013,South Carolina,52,Arkansas,7,-5.0
+10/12/2013,Alabama,48,Kentucky,7,-26.0
+10/12/2013,San Jose State,34,Colorado State,27,3.5
+10/12/2013,Idaho,24,Arkansas State,48,26.5
+10/12/2013,Michigan,40,Penn State,43,-1.0
+10/12/2013,Syracuse,24,No Carolina State,10,6.0
+10/12/2013,Memphis,15,Houston,25,8.0
+10/12/2013,U-A-B,27,Florida Intl,24,-6.0
+10/12/2013,Marshall,24,Florida Atlantic,23,-10.0
+10/12/2013,Kansas,17,Texas Christian,27,24.0
+10/12/2013,Middle Tennessee,7,North Texas,34,6.0
+10/12/2013,UL-Monroe,21,Texas State,14,5.5
+10/12/2013,Boise State,34,Utah State,23,-5.0
+10/12/2013,Oregon State,52,Washington State,24,0.0
+10/12/2013,Tulsa,34,UTEP,20,-10.0
+10/12/2013,Hawaii,37,Nevada-Las Vegas,39,7.5
+10/12/2013,Western Carolina,3,Auburn,62, 
+10/15/2013,UL-Lafayette,37,Western Kentucky,20,3.0
+10/17/2013,Miami-Florida,27,North Carolina,23,-9.0
+10/18/2013,U-C-F,38,Louisville,35,14.5
+10/19/2013,Duke,35,Virginia,22,2.5
+10/19/2013,Army,14,Temple,33,-1.0
+10/19/2013,Ohio,56,Eastern Michigan,28,-13.5
+10/19/2013,Ball State,38,Western Michigan,17,-18.5
+10/19/2013,Northern Illinois,38,Central Michigan,17,-14.5
+10/19/2013,Purdue,0,Michigan State,14,28.0
+10/19/2013,Southern Miss,14,East Carolina,55,24.0
+10/19/2013,Florida State,51,Clemson,14,-4.5
+10/19/2013,Maryland,10,Wake Forest,34,-4.5
+10/19/2013,Texas Tech,37,West Virginia,27,-3.5
+10/19/2013,Minnesota,20,Northwestern,17,12.5
+10/19/2013,Navy,44,Toledo,45,9.0
+10/19/2013,Connecticut,16,Cincinnati,41,14.0
+10/19/2013,S-M-U,34,Memphis,29,3.5
+10/19/2013,Colorado State,52,Wyoming,22,6.5
+10/19/2013,Auburn,45,Texas A+M,41,12.5
+10/19/2013,Washington State,38,Oregon,62,39.5
+10/19/2013,Indiana,47,Michigan,63,8.5
+10/19/2013,Syracuse,0,Georgia Tech,56,7.0
+10/19/2013,Oregon State,49,California,17,-11.0
+10/19/2013,Iowa,24,Ohio State,34,19.0
+10/19/2013,Arkansas,0,Alabama,52,29.0
+10/19/2013,South Carolina,21,Tennessee,23,-7.0
+10/19/2013,Washington,24,Arizona State,53,3.5
+10/19/2013,North Texas,28,Louisiana Tech,13,-3.5
+10/19/2013,Kent State,21,South Alabama,38,7.5
+10/19/2013,Utah State,45,New Mexico,10,-14.0
+10/19/2013,Florida,17,Missouri,36,-3.0
+10/19/2013,Louisiana State,24,Mississippi,27,-10.0
+10/19/2013,Brigham Young,47,Houston,46,-10.0
+10/19/2013,Massachusetts,3,Buffalo,32,19.5
+10/19/2013,Georgia State,17,Texas State,24,16.0
+10/19/2013,Akron,24,Miami-Ohio,17,-6.0
+10/19/2013,Iowa State,7,Baylor,71,33.0
+10/19/2013,Oklahoma,34,Kansas,19,-21.0
+10/19/2013,Texas Christian,10,Oklahoma State,24,6.5
+10/19/2013,U.C.L.A.,10,Stanford,24,4.0
+10/19/2013,Southern Cal,10,Notre Dame,14,2.0
+10/19/2013,Rice,45,New Mexico State,19,-17.0
+10/19/2013,Nevada-Reno,17,Boise State,34,23.5
+10/19/2013,Wisconsin,56,Illinois,32,-14.5
+10/19/2013,Georgia,27,Vanderbilt,31,-6.5
+10/19/2013,Utah,24,Arizona,35,3.5
+10/19/2013,Nevada-Las Vegas,14,Fresno State,38,24.5
+10/19/2013,Old Dominion,24,Pittsburgh,35, 
+10/19/2013,Charleston Southern,10,Colorado,43, 
+10/22/2013,UL-Lafayette,23,Arkansas State,7,-1.0
+10/24/2013,Kentucky,22,Mississippi State,28,12.0
+10/24/2013,Marshall,49,Middle Tennessee,51,-9.5
+10/25/2013,Boise State,20,Brigham Young,37,6.5
+10/26/2013,Georgia Tech,35,Virginia,25,-10.0
+10/26/2013,Connecticut,17,U-C-F,62,24.5
+10/26/2013,Ball State,42,Akron,24,-9.5
+10/26/2013,Miami-Ohio,16,Ohio,41,26.0
+10/26/2013,Buffalo,41,Kent State,21,-3.0
+10/26/2013,Western Michigan,31,Massachusetts,30,4.5
+10/26/2013,Houston,49,Rutgers,14,7.0
+10/26/2013,Boston College,10,North Carolina,34,5.5
+10/26/2013,Clemson,40,Maryland,27,-16.5
+10/26/2013,Duke,13,Virginia Tech,10,12.0
+10/26/2013,Pittsburgh,21,Navy,24,-4.5
+10/26/2013,U-A-B,31,Texas-San Antonio,52,8.0
+10/26/2013,Temple,49,S-M-U,59,14.0
+10/26/2013,Eastern Michigan,20,Northern Illinois,59,31.5
+10/26/2013,Arizona,44,Colorado,20,-12.5
+10/26/2013,Vanderbilt,24,Texas A+M,56,17.5
+10/26/2013,Florida Atlantic,10,Auburn,45,23.0
+10/26/2013,Tennessee,10,Alabama,45,27.5
+10/26/2013,U.C.L.A.,14,Oregon,42,23.5
+10/26/2013,Utah,3,Southern Cal,19,4.5
+10/26/2013,Tulsa,7,Tulane,14,-3.0
+10/26/2013,California,17,Washington,41,28.0
+10/26/2013,West Virginia,12,Kansas State,35,13.0
+10/26/2013,Michigan State,42,Illinois,3,-8.0
+10/26/2013,Wake Forest,21,Miami-Florida,24,25.5
+10/26/2013,No Carolina State,17,Florida State,49,35.0
+10/26/2013,Texas Tech,30,Oklahoma,38,6.5
+10/26/2013,Texas,30,Texas Christian,7,3.0
+10/26/2013,Northwestern,10,Iowa,17,3.5
+10/26/2013,Nevada-Las Vegas,27,Nevada-Reno,22,6.0
+10/26/2013,Wyoming,44,San Jose State,51,10.5
+10/26/2013,Stanford,20,Oregon State,12,-4.0
+10/26/2013,Troy,32,Western Kentucky,26,10.0
+10/26/2013,Notre Dame,45,Air Force,10,-19.5
+10/26/2013,Georgia State,10,UL-Monroe,38,15.5
+10/26/2013,South Alabama,31,Texas State,33,-2.5
+10/26/2013,Idaho,14,Mississippi,59,41.5
+10/26/2013,North Texas,55,Southern Miss,14,-12.0
+10/26/2013,Louisiana Tech,23,Florida Intl,7,-4.5
+10/26/2013,South Carolina,27,Missouri,24,3.0
+10/26/2013,Oklahoma State,58,Iowa State,27,-12.5
+10/26/2013,Baylor,59,Kansas,14,-34.5
+10/26/2013,Nebraska,23,Minnesota,34,-10.0
+10/26/2013,Louisville,34,South Florida,3,-21.0
+10/26/2013,Toledo,28,Bowling Green,25,3.5
+10/26/2013,Penn State,14,Ohio State,63,15.0
+10/26/2013,UTEP,7,Rice,45,17.0
+10/26/2013,Fresno State,35,San Diego State,28,-6.0
+10/26/2013,Colorado State,35,Hawaii,28,-2.0
+10/26/2013,Abilene Christian,29,New Mexico State,34, 
+10/26/2013,Furman,16,Louisiana State,48, 
+10/30/2013,Cincinnati,34,Memphis,21,-1.5
+10/31/2013,South Florida,23,Houston,35,18.5
+10/31/2013,Rice,16,North Texas,28,2.5
+10/31/2013,UL-Monroe,49,Troy,37,3.0
+10/31/2013,Arizona State,55,Washington State,21,-11.0
+11/01/2013,Southern Cal,31,Oregon State,14,4.5
+11/02/2013,Clemson,59,Virginia,10,-17.0
+11/02/2013,Virginia Tech,27,Boston College,34,-3.5
+11/02/2013,Eastern Michigan,16,Toledo,55,30.5
+11/02/2013,Northern Illinois,63,Massachusetts,19,-27.5
+11/02/2013,Kent State,7,Akron,16,1.5
+11/02/2013,Temple,20,Rutgers,23,11.5
+11/02/2013,Illinois,17,Penn State,24,12.0
+11/02/2013,Pittsburgh,10,Georgia Tech,21,10.5
+11/02/2013,Wake Forest,0,Syracuse,13,4.0
+11/02/2013,Western Kentucky,44,Georgia State,28,-19.0
+11/02/2013,Tennessee,3,Missouri,31,10.5
+11/02/2013,Iowa State,7,Kansas State,41,17.5
+11/02/2013,Southern Miss,13,Marshall,61,31.5
+11/02/2013,UTEP,7,Texas A+M,57,48.0
+11/02/2013,Middle Tennessee,24,U-A-B,21,-3.5
+11/02/2013,Texas-San Antonio,34,Tulsa,15,3.5
+11/02/2013,Army,28,Air Force,42,1.0
+11/02/2013,West Virginia,30,Texas Christian,27,11.5
+11/02/2013,Georgia,23,Florida,20,-3.5
+11/02/2013,Arizona,33,California,28,-14.5
+11/02/2013,Miami-Florida,14,Florida State,41,21.0
+11/02/2013,Wisconsin,28,Iowa,9,-9.0
+11/02/2013,Michigan,6,Michigan State,29,4.0
+11/02/2013,Ohio State,56,Purdue,0,-31.0
+11/02/2013,Minnesota,42,Indiana,39,8.5
+11/02/2013,Colorado,23,U.C.L.A.,45,28.5
+11/02/2013,Navy,34,Notre Dame,38,16.0
+11/02/2013,Auburn,35,Arkansas,17,-7.0
+11/02/2013,Northwestern,24,Nebraska,27,3.5
+11/02/2013,Arkansas State,17,South Alabama,16,3.0
+11/02/2013,Hawaii,10,Utah State,47,24.0
+11/02/2013,San Jose State,34,Nevada-Las Vegas,24,-5.0
+11/02/2013,New Mexico State,35,UL-Lafayette,49,32.0
+11/02/2013,Texas State,37,Idaho,21,-11.0
+11/02/2013,North Carolina,27,No Carolina State,19,-5.5
+11/02/2013,Kansas,13,Texas,35,26.5
+11/02/2013,Tulane,17,Florida Atlantic,34,3.0
+11/02/2013,Oklahoma State,52,Texas Tech,34,-1.0
+11/02/2013,East Carolina,34,Florida Intl,13,-27.0
+11/02/2013,Nevada-Reno,23,Fresno State,41,21.0
+11/02/2013,Mississippi State,16,South Carolina,34,11.5
+11/02/2013,Boise State,42,Colorado State,30,-7.0
+11/02/2013,New Mexico,30,San Diego State,35,14.0
+11/02/2013,Alabama State,14,Kentucky,48, 
+11/05/2013,Ohio,3,Buffalo,30,4.5
+11/05/2013,Bowling Green,45,Miami-Ohio,3,-24.0
+11/06/2013,Central Michigan,24,Ball State,44,20.0
+11/07/2013,Oklahoma,12,Baylor,41,17.0
+11/07/2013,Troy,36,UL-Lafayette,41,14.0
+11/07/2013,Oregon,20,Stanford,26,-10.0
+11/08/2013,Louisville,31,Connecticut,10,-28.0
+11/08/2013,Air Force,37,New Mexico,45,3.0
+11/09/2013,Iowa,38,Purdue,14,-15.5
+11/09/2013,Western Kentucky,21,Army,17,-5.5
+11/09/2013,S-M-U,25,Cincinnati,28,6.5
+11/09/2013,No Carolina State,20,Duke,38,10.0
+11/09/2013,Tulsa,24,East Carolina,58,16.0
+11/09/2013,Illinois,35,Indiana,52,9.5
+11/09/2013,Texas Christian,21,Iowa State,17,-7.0
+11/09/2013,Florida State,59,Wake Forest,3,-34.0
+11/09/2013,U-A-B,14,Marshall,56,24.5
+11/09/2013,Virginia Tech,42,Miami-Florida,24,4.5
+11/09/2013,Penn State,10,Minnesota,24,3.0
+11/09/2013,Syracuse,20,Maryland,3,5.0
+11/09/2013,Missouri,48,Kentucky,17,-14.0
+11/09/2013,Virginia,14,North Carolina,45,12.0
+11/09/2013,Vanderbilt,34,Florida,17,11.5
+11/09/2013,Western Michigan,32,Eastern Michigan,35,-2.5
+11/09/2013,Tulane,7,Texas-San Antonio,10,9.5
+11/09/2013,Fresno State,48,Wyoming,10,-8.5
+11/09/2013,Kansas State,49,Texas Tech,26,2.5
+11/09/2013,Brigham Young,17,Wisconsin,27,8.5
+11/09/2013,Arkansas,24,Mississippi,34,16.5
+11/09/2013,Nevada-Reno,17,Colorado State,38,8.5
+11/09/2013,Colorado,7,Washington,59,28.0
+11/09/2013,Texas,47,West Virginia,40,-5.0
+11/09/2013,Arizona State,20,Utah,19,-7.0
+11/09/2013,Nebraska,17,Michigan,13,7.0
+11/09/2013,Hawaii,28,Navy,42,17.0
+11/09/2013,UTEP,7,North Texas,41,26.5
+11/09/2013,Kansas,6,Oklahoma State,42,30.5
+11/09/2013,Southern Cal,62,California,28,-17.0
+11/09/2013,Notre Dame,21,Pittsburgh,28,-3.5
+11/09/2013,Mississippi State,41,Texas A+M,51,18.5
+11/09/2013,Boston College,48,New Mexico State,34,-25.0
+11/09/2013,Utah State,28,Nevada-Las Vegas,24,-15.5
+11/09/2013,Florida Intl,0,Middle Tennessee,48,19.5
+11/09/2013,Arkansas State,42,UL-Monroe,14,2.5
+11/09/2013,Southern Miss,13,Louisiana Tech,36,17.0
+11/09/2013,Auburn,55,Tennessee,23,-7.0
+11/09/2013,Houston,14,U-C-F,19,13.0
+11/09/2013,U.C.L.A.,31,Arizona,26,2.0
+11/09/2013,Louisiana State,17,Alabama,38,10.5
+11/09/2013,San Diego State,34,San Jose State,30,6.5
+11/09/2013,Appalachian State,6,Georgia,45, 
+11/09/2013,Tennessee-Martin,6,Memphis,21, 
+11/09/2013,Old Dominion,59,Idaho,38, 
+11/12/2013,Ohio,0,Bowling Green,49,8.0
+11/12/2013,Buffalo,41,Toledo,51,5.5
+11/13/2013,Ball State,27,Northern Illinois,48,8.0
+11/13/2013,Miami-Ohio,6,Kent State,24,19.5
+11/14/2013,Georgia Tech,31,Clemson,55,10.5
+11/14/2013,Marshall,45,Tulsa,34,-13.5
+11/15/2013,Washington,31,U.C.L.A.,41,3.0
+11/16/2013,Miami-Florida,30,Duke,48,-3.5
+11/16/2013,Indiana,3,Wisconsin,51,27.0
+11/16/2013,Kentucky,6,Vanderbilt,22,11.0
+11/16/2013,Houston,13,Louisville,20,16.5
+11/16/2013,Central Michigan,27,Western Michigan,22,-3.0
+11/16/2013,Maryland,27,Virginia Tech,24,14.5
+11/16/2013,No Carolina State,21,Boston College,38,7.0
+11/16/2013,Cincinnati,52,Rutgers,17,0.0
+11/16/2013,North Carolina,34,Pittsburgh,27,1.5
+11/16/2013,U-C-F,39,Temple,36,-17.5
+11/16/2013,Purdue,21,Penn State,45,21.5
+11/16/2013,Florida,14,South Carolina,19,14.5
+11/16/2013,Michigan,27,Northwestern,19,3.0
+11/16/2013,Syracuse,3,Florida State,59,37.5
+11/16/2013,Florida Atlantic,41,Southern Miss,7,-17.5
+11/16/2013,Akron,14,Massachusetts,13,-6.5
+11/16/2013,U-A-B,14,East Carolina,63,28.0
+11/16/2013,Connecticut,21,S-M-U,38,16.0
+11/16/2013,West Virginia,19,Kansas,31,-6.5
+11/16/2013,UL-Lafayette,35,Georgia State,21,-20.5
+11/16/2013,California,24,Colorado,41,1.5
+11/16/2013,Texas Tech,34,Baylor,63,27.5
+11/16/2013,Wyoming,7,Boise State,48,24.0
+11/16/2013,Oregon State,17,Arizona State,30,13.5
+11/16/2013,Georgia,38,Auburn,43,3.0
+11/16/2013,Oklahoma State,38,Texas,13,-3.0
+11/16/2013,Iowa State,10,Oklahoma,48,23.0
+11/16/2013,Utah,21,Oregon,44,28.0
+11/16/2013,South Alabama,14,Navy,42,6.5
+11/16/2013,Michigan State,41,Nebraska,28,-5.5
+11/16/2013,Ohio State,60,Illinois,35,-33.5
+11/16/2013,San Jose State,16,Nevada-Reno,38,-7.0
+11/16/2013,Alabama,20,Mississippi State,7,-22.5
+11/16/2013,Stanford,17,Southern Cal,20,-3.0
+11/16/2013,Colorado State,66,New Mexico,42,-6.5
+11/16/2013,Memphis,23,South Florida,10,-1.5
+11/16/2013,Louisiana Tech,14,Rice,52,14.5
+11/16/2013,Texas Christian,31,Kansas State,33,11.5
+11/16/2013,Troy,21,Mississippi,51,28.5
+11/16/2013,Texas State,21,Arkansas State,38,7.0
+11/16/2013,Florida Intl,10,UTEP,33,5.5
+11/16/2013,Washington State,24,Arizona,17,10.5
+11/16/2013,San Diego State,28,Hawaii,21,-5.0
+11/16/2013,Idaho State,13,Brigham Young,59, 
+11/19/2013,Buffalo,44,Miami-Ohio,7,-24.0
+11/19/2013,Kent State,44,Ohio,13,4.5
+11/20/2013,Northern Illinois,35,Toledo,17,0.0
+11/21/2013,Rutgers,17,U-C-F,41,19.5
+11/21/2013,Rice,37,U-A-B,34,-17.0
+11/21/2013,Nevada-Las Vegas,41,Air Force,21,1.0
+11/22/2013,Navy,58,San Jose State,52,1.5
+11/23/2013,Nebraska,23,Penn State,20,1.0
+11/23/2013,Illinois,20,Purdue,16,-6.0
+11/23/2013,Pittsburgh,17,Syracuse,16,0.0
+11/23/2013,Connecticut,28,Temple,21,6.5
+11/23/2013,Indiana,14,Ohio State,42,33.5
+11/23/2013,Michigan State,30,Northwestern,6,-6.5
+11/23/2013,East Carolina,42,No Carolina State,28,-6.5
+11/23/2013,Idaho,14,Florida State,80,59.0
+11/23/2013,Marshall,48,Florida Intl,10,-32.5
+11/23/2013,Kentucky,17,Georgia,59,26.0
+11/23/2013,Kansas,0,Iowa State,34,4.0
+11/23/2013,Duke,28,Wake Forest,21,-6.0
+11/23/2013,Boston College,29,Maryland,26,-1.0
+11/23/2013,Wisconsin,20,Minnesota,7,-17.0
+11/23/2013,Virginia,26,Miami-Florida,45,20.5
+11/23/2013,Cincinnati,24,Houston,17,2.0
+11/23/2013,Memphis,17,Louisville,24,22.5
+11/23/2013,Vanderbilt,14,Tennessee,10,2.5
+11/23/2013,Massachusetts,0,Central Michigan,37,13.5
+11/23/2013,Bowling Green,58,Eastern Michigan,7,-25.5
+11/23/2013,Hawaii,56,Wyoming,59,6.5
+11/23/2013,Western Kentucky,37,Texas State,7,-5.5
+11/23/2013,Michigan,21,Iowa,24,5.5
+11/23/2013,Arizona State,38,U.C.L.A.,33,-3.0
+11/23/2013,Colorado State,0,Utah State,13,11.0
+11/23/2013,Southern Cal,47,Colorado,29,-20.0
+11/23/2013,Texas A+M,10,Louisiana State,34,4.0
+11/23/2013,Mississippi State,24,Arkansas,17,-1.5
+11/23/2013,Oregon,16,Arizona,42,-18.0
+11/23/2013,UTEP,3,Tulane,45,15.5
+11/23/2013,California,13,Stanford,63,32.0
+11/23/2013,Texas-San Antonio,21,North Texas,13,7.5
+11/23/2013,Brigham Young,13,Notre Dame,23,1.0
+11/23/2013,Baylor,17,Oklahoma State,49,-8.0
+11/23/2013,Middle Tennessee,42,Southern Miss,21,-22.5
+11/23/2013,Georgia State,33,Arkansas State,35,24.0
+11/23/2013,Washington,69,Oregon State,27,2.0
+11/23/2013,UL-Monroe,14,South Alabama,36,3.5
+11/23/2013,S-M-U,16,South Florida,6,-4.5
+11/23/2013,New Mexico,28,Fresno State,69,33.0
+11/23/2013,New Mexico State,10,Florida Atlantic,55,22.5
+11/23/2013,Tulsa,24,Louisiana Tech,14,-3.0
+11/23/2013,Oklahoma,41,Kansas State,31,5.0
+11/23/2013,Missouri,24,Mississippi,10,-2.0
+11/23/2013,Utah,37,Washington State,49,2.0
+11/23/2013,Boise State,31,San Diego State,34,-6.5
+11/23/2013,Old Dominion,20,North Carolina,80, 
+11/23/2013,Chattanooga,0,Alabama,49, 
+11/23/2013,Georgia Southern,26,Florida,20, 
+11/23/2013,Coastal Carolina,10,South Carolina,70, 
+11/23/2013,Alabama A+M,7,Georgia Tech,66, 
+11/23/2013,The Citadel,6,Clemson,52, 
+11/26/2013,Western Michigan,14,Northern Illinois,33,35.0
+11/28/2013,Texas Tech,16,Texas,41,4.5
+11/28/2013,Mississippi,10,Mississippi State,17,-3.0
+11/29/2013,Iowa,38,Nebraska,17,2.5
+11/29/2013,Toledo,29,Akron,31,-11.0
+11/29/2013,Miami-Ohio,14,Ball State,55,35.0
+11/29/2013,Eastern Michigan,10,Central Michigan,42,17.5
+11/29/2013,Massachusetts,23,Ohio,51,19.5
+11/29/2013,East Carolina,28,Marshall,59,3.0
+11/29/2013,Bowling Green,24,Buffalo,7,-3.5
+11/29/2013,Arkansas,27,Louisiana State,31,28.0
+11/29/2013,Texas State,28,Troy,42,8.5
+11/29/2013,Florida Intl,6,Florida Atlantic,21,27.5
+11/29/2013,South Florida,20,U-C-F,23,26.0
+11/29/2013,Fresno State,52,San Jose State,62,-10.5
+11/29/2013,Miami-Florida,41,Pittsburgh,31,-1.5
+11/29/2013,Washington State,17,Washington,27,16.5
+11/29/2013,S-M-U,0,Houston,34,9.5
+11/29/2013,Oregon State,35,Oregon,36,23.5
+11/30/2013,Ohio State,42,Michigan,41,-17.0
+11/30/2013,Boston College,31,Syracuse,34,-2.5
+11/30/2013,Maryland,41,No Carolina State,21,-3.0
+11/30/2013,Wake Forest,21,Vanderbilt,23,14.5
+11/30/2013,Duke,27,North Carolina,25,5.0
+11/30/2013,Iowa State,52,West Virginia,44,7.5
+11/30/2013,Northwestern,37,Illinois,34,-3.5
+11/30/2013,Purdue,36,Indiana,56,20.5
+11/30/2013,Rutgers,17,Connecticut,28,-2.0
+11/30/2013,Tennessee,27,Kentucky,14,-3.5
+11/30/2013,Minnesota,3,Michigan State,14,17.0
+11/30/2013,Temple,41,Memphis,21,8.0
+11/30/2013,Southern Miss,62,U-A-B,27,15.0
+11/30/2013,South Alabama,38,Georgia State,17,-8.0
+11/30/2013,Wyoming,7,Utah State,35,24.0
+11/30/2013,Colorado,17,Utah,24,16.5
+11/30/2013,Brigham Young,28,Nevada-Reno,23,-16.5
+11/30/2013,Tulane,13,Rice,17,9.5
+11/30/2013,Georgia,41,Georgia Tech,34,-2.5
+11/30/2013,Texas A+M,21,Missouri,28,4.0
+11/30/2013,Virginia Tech,16,Virginia,6,-10.5
+11/30/2013,Alabama,28,Auburn,34,-10.0
+11/30/2013,New Mexico,17,Boise State,45,36.0
+11/30/2013,Baylor,41,Texas Christian,38,-14.5
+11/30/2013,Florida State,37,Florida,7,-28.0
+11/30/2013,Air Force,13,Colorado State,58,17.0
+11/30/2013,Kansas State,31,Kansas,10,-18.0
+11/30/2013,Penn State,31,Wisconsin,24,25.0
+11/30/2013,Louisiana Tech,10,Texas-San Antonio,30,16.5
+11/30/2013,Idaho,16,New Mexico State,24,2.5
+11/30/2013,San Diego State,19,Nevada-Las Vegas,45,-4.5
+11/30/2013,Arkansas State,31,Western Kentucky,34,6.0
+11/30/2013,North Texas,42,Tulsa,10,-4.0
+11/30/2013,UL-Monroe,31,UL-Lafayette,28,17.5
+11/30/2013,UTEP,17,Middle Tennessee,48,24.0
+11/30/2013,Clemson,17,South Carolina,31,3.0
+11/30/2013,U.C.L.A.,35,Southern Cal,14,4.5
+11/30/2013,Notre Dame,20,Stanford,27,16.5
+11/30/2013,Arizona,21,Arizona State,58,11.0
+11/30/2013,Army,42,Hawaii,49,6.5
+12/05/2013,Louisville,31,Cincinnati,24,-3.0
+12/06/2013,Bowling Green,47,Northern Illinois,27,3.0
+12/07/2013,Memphis,10,Connecticut,45,-1.5
+12/07/2013,South Florida,6,Rutgers,31,3.5
+12/07/2013,Texas,10,Baylor,30,16.0
+12/07/2013,UL-Lafayette,8,South Alabama,30,3.0
+12/07/2013,U-C-F,17,S-M-U,13,-13.5
+12/07/2013,Oklahoma,33,Oklahoma State,24,10.0
+12/07/2013,Marshall,24,Rice,41,-6.5
+12/07/2013,Missouri,42,Auburn,59,-1.0
+12/07/2013,Duke,7,Florida State,45,29.5
+12/07/2013,Stanford,38,Arizona State,14,3.5
+12/07/2013,Ohio State,24,Michigan State,34,-5.5
+12/07/2013,Utah State,17,Fresno State,24,3.0
+12/14/2013,Army,7,Navy,34,12.0
